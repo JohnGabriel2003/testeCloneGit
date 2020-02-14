@@ -9,8 +9,13 @@ int main(){
 
 	idade = idade - 1;
 
-	printf("Idade - 1 = %i", idade);
+	printf("Nova Idade - 1 = %i", idade);
 	printf("\n");
 
+	idade = idade + 1;
+	
+	printf("Idade Original = %i, idade");
+	printf("\n");
+	
     return 0;
 }
